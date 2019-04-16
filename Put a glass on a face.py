@@ -1,3 +1,6 @@
+#The aim is to put any size of glasses on any size of frontal face image. The code has already been developing, 
+#and for future, I want to help people choose their glasses by just looking a front facing camera at the end of the work. 
+
 import cv2
 import numpy as np
  
